@@ -5,7 +5,7 @@ import torch
 import tqdm
 
 # Just put your images in a folder inside reference_images/
-aesthetic_style = "aivazovsky"
+aesthetic_style = "mcdo"
 image_paths = glob.glob(f"reference_images/{aesthetic_style}/*")
 
 
